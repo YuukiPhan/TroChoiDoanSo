@@ -1,0 +1,14 @@
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\bin\Debug\net8.0\trochoi.exe
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\bin\Debug\net8.0\trochoi.deps.json
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\bin\Debug\net8.0\trochoi.runtimeconfig.json
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\bin\Debug\net8.0\trochoi.dll
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\bin\Debug\net8.0\trochoi.pdb
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\trochoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\trochoi.AssemblyInfoInputs.cache
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\trochoi.AssemblyInfo.cs
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\trochoi.csproj.CoreCompileInputs.cache
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\trochoi.dll
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\refint\trochoi.dll
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\trochoi.pdb
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\trochoi.genruntimeconfig.cache
+C:\Users\PHAN TRONG QUYNH\source\repos\trochoi\trochoi\obj\Debug\net8.0\ref\trochoi.dll
