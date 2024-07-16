@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trochoi", "trochoi\trochoi.csproj", "{988A97EC-7656-42EA-AA6A-26D3CD4AE7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988A97EC-7656-42EA-AA6A-26D3CD4AE7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988A97EC-7656-42EA-AA6A-26D3CD4AE7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988A97EC-7656-42EA-AA6A-26D3CD4AE7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988A97EC-7656-42EA-AA6A-26D3CD4AE7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D88C1F-94BB-44A7-BA99-036C040D7959}
+	EndGlobalSection
+EndGlobal
